@@ -1,5 +1,7 @@
 # oscar-sensor
 
+Author: Dhruv Kurpad
+
 This project is a dog harness with sensors to detect seizures in dogs. The repo contains all the code and assets needed to build the complete prototype. Please contact me if you want a completed harness. 
 
 The harness is an off the shelf dog harness modified with a few sensors that can determine when a dog is having a seizure and notify me on a companion app.
