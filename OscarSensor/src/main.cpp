@@ -144,6 +144,7 @@ void loop() {
     xQueueSend(msg_queue, (void *)&buff, 10);
     //memset(messages, 0, sizeof(messages));
     first = false;
+    //delay 10 seconds
     delay(1000);
     arr_count = 0;
   }
