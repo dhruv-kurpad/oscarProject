@@ -43,7 +43,7 @@ I planned on using a pulse sensor to corelate the pulse data with the accelerome
 The [ESP32-PulseSensor](ESP32-PulseSensor) project has all the code needed to get this device working.
 
 ### Azure IOT Hub Project
-I included the [ESP32-AzureIotHub](ESP32-AzureIotHub) project but decided not to use the IOT Hub and instead cose the simmpler solution of connecting the sensor to an Azure Function.
+I included the [ESP32-AzureIotHub](ESP32-AzureIotHub) project but decided not to use the IOT Hub and instead chose the simpler solution of connecting the sensor to an Azure Function.
 
 ### OscarSensor Project
 The [OscarSensor](OscarSensor) project is the final project that I will be updating with improvements. The current version I have running for my dog takes a reading 10 times a second for 10 seconds and uploads the readings to the Azure Function.
@@ -76,6 +76,7 @@ The entire cloud setup dos not cost me more than $5/month to run this.
 * Extending the app to enable geofencing with a home controller and a Lora module.
 * Collect data from multiple sensors to look for patterns in predicting seizures
 * Build an iOS app instead of a simple text message for notifications. For now this works.
+* Use the sleep mode to save battery
 
 ## Resources
 
