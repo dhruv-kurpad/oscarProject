@@ -5,4 +5,4 @@ Trigger the Logic App to send a text message if a seizure is detected.
 
 Here's an image of the logic app with the notification service
 
-![Logic App](../imgs/Logic_app.png)
+![Logic App](../imgs/Logic_app.jpg)
