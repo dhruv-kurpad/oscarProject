@@ -8,9 +8,9 @@ This project is a dog harness with sensors to detect seizures in dogs. The repo 
 
 The harness is an off the shelf dog harness modified with a few sensors that can determine when a dog is having a seizure and notify me on a companion app.
 
-The project contains the following components:
+The repository contains a few projects. I started with a single project for each compponent to get it working. It includes the following projects:
 * Project to work with the MPU-6050 sensor and a ESP32 microcontroller
-* Project to work with the Ne-6M GPS sensor and a ESP32 microcontroller
+* Project to work with the Neo-6M GPS sensor and a ESP32 microcontroller
 * Project to work with the pulse sensor and a ESP32 microcontroller
 * Project to connect a ESP32 microcontroller to wifi and the send data to the cloud
 * Completed project with schematics to connect all the sensors to the ESP32 and send data to the cloud
